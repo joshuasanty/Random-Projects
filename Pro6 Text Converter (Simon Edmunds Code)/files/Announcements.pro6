@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="1000" width="1600" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2022-09-09T00:00:57+00:00" selectedArrangementID="" category="Presentation" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="786213" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="" color="1 1 1 0" uuid="DCF0CE31-17D7-45B1-8F9D-3BDF5460325D">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="RL Timer.mp4" notes="" UUID="4F0A16CB-AEC7-42EB-BA07-E67CA0CF5000" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="B998F5B9-7444-4184-BCBB-C55D83808353" displayName="RL Timer.mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="RL Timer.mp4" UUID="b998f5b9-7444-4184-bcbb-c55d83808353" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5CTimers%5CRL%20Timer.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="60" audioVolume="1" inPoint="0" outPoint="208140" playRate="1" playbackBehavior="1" timeScale="600" endPoint="208140" naturalSize="{1920, 1080}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Pumba short.mp4" notes="" UUID="54DFF59F-09D1-46F6-B334-CF1994FE04CF" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="C5F96EA0-2D46-4658-A2E1-0907F7DE8A45" displayName="Pumba short.mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="Pumba short.mp4" UUID="c5f96ea0-2d46-4658-a2e1-0907f7de8a45" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5Cannounce%2022%5CPumba%20short.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="29.9700298309326" audioVolume="1" inPoint="0" outPoint="145645" playRate="1" playbackBehavior="1" timeScale="600" endPoint="145645" naturalSize="{1920, 1080}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="5 Minute Service Countdown (No Sound).mp4" notes="" UUID="C5D7FD1F-A266-4A96-A70F-B0C046BB41BF" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="CC0E7985-E339-4AF6-9D4B-6A8A84E2D86A" displayName="5 Minute Service Countdown (No Sound).mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="5 Minute Service Countdown (No Sound).mp4" UUID="cc0e7985-e339-4af6-9d4b-6a8a84e2d86a" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5CTimers%5C5%20Minute%20Service%20Countdown%20%28No%20Sound%29.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="29.9700298309326" audioVolume="1" inPoint="0" outPoint="182047" playRate="1" playbackBehavior="1" timeScale="600" endPoint="182048" naturalSize="{1280, 720}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="5_Minute_Countdown_-_Underwater.mp4" notes="" UUID="80C17116-3D31-43FF-AF62-4C94276F4344" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="60E6483D-5351-410D-87E2-50FB9A184B2A" displayName="5_Minute_Countdown_-_Underwater.mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="5_Minute_Countdown_-_Underwater.mp4" UUID="60e6483d-5351-410d-87e2-50fb9a184b2a" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5CTimers%5C5_Minute_Countdown_-_Underwater.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="29.9700298309326" audioVolume="1" inPoint="0" outPoint="183427" playRate="1" playbackBehavior="1" timeScale="600" endPoint="183428" naturalSize="{1280, 720}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="5_Minute_Timer_with_Classical_Calm_Music_Countdown_Timer_for_Kids_Piano_Instrumental_Music[youtubetomp4.org].mp4" notes="" UUID="DD81098E-BA57-4B7F-8790-F8C2DFED163F" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="FCB0FFA9-67CC-4C59-A07B-3EAFA1E403DD" displayName="5_Minute_Timer_with_Classical_Calm_Music_Countdown_Timer_for_Kids_Piano_Instrumental_Music[youtubetomp4.org].mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="5_Minute_Timer_with_Classical_Calm_Music_Countdown_Timer_for_Kids_Piano_Instrumental_Music[youtubetomp4.org].mp4" UUID="fcb0ffa9-67cc-4c59-a07b-3eafa1e403dd" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5CTimers%5C5_Minute_Timer_with_Classical_Calm_Music_Countdown_Timer_for_Kids_Piano_Instrumental_Music%5Byoutubetomp4.org%5D.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="25" audioVolume="1" inPoint="0" outPoint="187552" playRate="1" playbackBehavior="1" timeScale="600" endPoint="187552" naturalSize="{1280, 720}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="y2mate.com - Motion Worship 5 min countdown to Praise &amp; Worship_laZyISQI6OA_360p.mp4" notes="" UUID="E4EE7A70-570A-4E64-BB3D-DC4BDA281ED3" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="46659146-A778-4BEE-80C4-E83C07716CF6" displayName="y2mate.com - Motion Worship 5 min countdown to Praise &amp; Worship_laZyISQI6OA_360p.mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="y2mate.com - Motion Worship 5 min countdown to Praise &amp; Worship_laZyISQI6OA_360p.mp4" UUID="46659146-a778-4bee-80c4-e83c07716cf6" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5CTimers%5Cy2mate.com%20-%20Motion%20Worship%205%20min%20countdown%20to%20Praise%20%26%20Worship_laZyISQI6OA_360p.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="24" audioVolume="1" inPoint="0" outPoint="189319" playRate="1" playbackBehavior="1" timeScale="600" endPoint="189321" naturalSize="{402, 226}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="5 min Countdown Timer Roller Coaster for youth groups churches concerts.mp4" notes="" UUID="0D13FF15-AD72-42C7-9F1D-89F69000A85C" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="4315CECA-181E-45C9-8F04-81FA166D135D" displayName="5 min Countdown Timer Roller Coaster for youth groups churches concerts.mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="5 min Countdown Timer Roller Coaster for youth groups churches concerts.mp4" UUID="4315ceca-181e-45c9-8f04-81fa166d135d" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5CTimers%5C5%20min%20Countdown%20Timer%20Roller%20Coaster%20for%20youth%20groups%20churches%20concerts.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="29.9700298309326" audioVolume="1" inPoint="0" outPoint="182773" playRate="1" playbackBehavior="1" timeScale="600" endPoint="182773" naturalSize="{1280, 720}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Mitchel's Revenge Newsroom-Catalyst Version.mp4" notes="" UUID="A59FF076-FB63-4FF4-80E3-0CB5DA82D9BC" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="31D39190-F2F5-40E6-B558-6E45FEC73B72" displayName="Mitchel's Revenge Newsroom-Catalyst Version.mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="Mitchel's Revenge Newsroom-Catalyst Version.mp4" UUID="31d39190-f2f5-40e6-b558-6e45fec73b72" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5C2022%20newsroom%5CMitchel%27s%20Revenge%20Newsroom-Catalyst%20Version.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="29.9700298309326" audioVolume="1" inPoint="0" outPoint="81921" playRate="1" playbackBehavior="1" timeScale="600" endPoint="81921" naturalSize="{1920, 1080}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Zimon Newsroom.mp4" notes="" UUID="B14F611D-266C-4C56-8445-DE687D4A6EB0" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="EC4CD3A8-BF60-4E1A-942D-974F563EE88E" displayName="Zimon Newsroom.mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="Zimon Newsroom.mp4" UUID="ec4cd3a8-bf60-4e1a-942d-974f563ee88e" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5C2022%20newsroom%5CZimon%20Newsroom.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="29.9700298309326" audioVolume="1" inPoint="0" outPoint="66085" playRate="1" playbackBehavior="1" timeScale="600" endPoint="66085" naturalSize="{1920, 1080}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Fastest Newsroom in the midwest.mp4" UUID="444CA6E8-64E8-42A1-8231-A4B79505E9B0" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="E5295570-74A2-429B-98FD-9E3D8CA0B266" displayName="Fastest Newsroom in the midwest.mp4" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="Fastest Newsroom in the midwest.mp4" UUID="e5295570-74a2-429b-98fd-9e3d8ca0b266" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5CCCF%20Media%5CVideos%5C2022%20newsroom%5CFastest%20Newsroom%20in%20the%20midwest.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="29.9700298309326" audioVolume="1" inPoint="0" outPoint="25825" playRate="1" playbackBehavior="1" timeScale="600" endPoint="25825" naturalSize="{1920, 1080}" fieldType="0">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements" />
+</RVPresentationDocument>
