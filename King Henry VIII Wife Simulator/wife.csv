@@ -1,0 +1,7 @@
+Name,BirthYear,DeathYear,MarriageYear,Outcome,AgeWhenMarried,HenryAgeAtMarriage,AgeDifference,YearsMarried,WeeksUntilFirstLiveBirth,PreviouslyMarried,RumoredAffairs,ChildrenBorn,ChildrenDied,MaleHeirsSurvived,CountryOfOrigin,NobleRank,Religion,PoliticalStance,Occupation,EducationLevel,MusicalAbility,Temperament,HairColor,EyeColor,Atractiveness,Height,Weight,
+Catherine of Aragon,1485,1536,1509,Divorced,24,17,7,24,80,0,0,6,5,0,Spain,Infanta,Catholic,Pro-Catholic,Queen,Highly Educated,0,Resilient,Red,Blue,7,NA,NA,
+Anne Boleyn,1501,1536,1533,Executed,32,41,9,3,35,0,1,1,0,1,England,Queen,Catholic (converted under pressure),Reformist court faction,Queen,Humanist education,1,Assertive,Black,Brown,7,NA,NA,
+Jane Seymour,1508,1537,1536,Died,28,45,17,1,74,0,0,1,1,1,England,Lady-in-waiting,Catholic,Pro-Catholic,Fashion Court Lady,Limited Formal Education,0,Calm,Blonde,Blue,6,NA,NA,
+Anne of Cleves,1515,1557,1540,Divorced,25,49,24,0.5,NA,0,0,0,0,0,Germany,Duchess,Protestant,Political Marriage,Princess,Limited Formal Education,0,Calm,Blonde,Brown,5,NA,NA,
+Katherine Howard,1523,1542,1540,Executed,17,49,32,2,NA,0,1,0,0,0,England,Lady-in-waiting,Catholic,Pro-Catholic,Court attendant,Limited Formal Education,0,Reckless,Blonde,Brown,7,NA,NA,
+Catherine Parr,1512,1548,1543,Survived,31,52,21,3,NA,1,0,0,0,0,England,Queen,Catholic,Protestant Sympathizer,Queen,Highly Educated,1,Calm,Blonde,Brown,7,NA,NA
